@@ -1,4 +1,4 @@
 # Mag-Field
 A magnetic field simulator using the cursor!
 
-LIVE DEMO - 
+LIVE DEMO - https://6vg79s.csb.app/
